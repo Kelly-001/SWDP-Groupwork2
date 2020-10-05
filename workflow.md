@@ -16,6 +16,7 @@ You all preform a pull request if you would have any problems, or if you want me
 
 ### 1. Kelly's feature
 	First feature, a bit buggy
+	Second feature
 
 ### 2. Thaniel's feature
 
