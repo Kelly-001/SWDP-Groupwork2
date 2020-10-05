@@ -15,7 +15,7 @@ You all preform a pull request if you would have any problems, or if you want me
 *This is version 1, with a commit. Please add your features to this version*
 
 ### 1. Kelly's feature
-
+	First feature, a bit buggy
 
 ### 2. Thaniel's feature
 
