@@ -16,7 +16,7 @@ You all preform a pull request if you would have any problems, or if you want me
 
 ### 1. Kelly's feature
 	First feature, fixed bug
-	Second feature
+	Second feature, fixed a line of bug
 	Final feature
 
 ### 2. Thaniel's feature
